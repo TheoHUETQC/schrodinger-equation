@@ -1,4 +1,4 @@
-# Schrödinger Equation - Quantum Simulations  
+# 🐈 Schrödinger Equation - Quantum Simulations  
 
 This repository contains numerical simulations of quantum mechanical phenomena using **Python**. The simulations solve the **time-dependent Schrödinger equation (TDSE)** for various potential configurations using **finite difference methods** and the **Crank-Nicolson algorithm** for stability.  
 
