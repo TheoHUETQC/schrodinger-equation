@@ -136,3 +136,8 @@ Contributions are welcome! You can:
 - Fork the project and suggest improvements.
 - Submit a pull request if you add features or fix a bug.
 - Open an issue to ask a question or report a problem.
+
+--- 
+
+## References
+- [Félix Rose](https://felix-rose.github.io/fr/)'s course on numerical modeling, *Computational Physics* (Master 1)
